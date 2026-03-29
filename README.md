@@ -59,6 +59,8 @@ Projekt ansehen
 Autor:
 Jan Gombala
 
+## Projekt ansehen
+
 Der vollständige Projektbericht ist hier verfügbar:
 
 👉 [Projekt öffnen](SQL_Data_Cleaning_Superstore_Jan_Gombala.pdf)
