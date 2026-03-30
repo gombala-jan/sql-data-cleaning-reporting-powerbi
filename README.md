@@ -1,4 +1,4 @@
-# sql-data-cleaning-reporting-powerbi
+# Sql-Data-Cleaning-Reporting-Powerbi
 SQL Data Cleaning und Reporting Pipeline mit MySQL und Power BI (Superstore Dataset)
 
 Projektbeschreibung
